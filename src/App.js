@@ -1,10 +1,10 @@
-import './App.css';
-import GameLobby from './components/GameLobby';
+import "./App.css";
+import Routes from "./routes/Routes";
 
 function App() {
   return (
     <div className="App">
-      <GameLobby />
+      <Routes />
     </div>
   );
 }
